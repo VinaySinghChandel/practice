@@ -1,0 +1,20 @@
+# Global Installation
+$ npm install -g create-react-app
+
+# Create new project
+$ create-react-app todo-app
+$ cd todo-app
+
+# Build, test and run
+$ npm run build
+$ npm run test
+$ npm start
+
+-----------------------------------------------------
+
+-------8 LPA-------
+1.  Communication
+2.  Skill Development
+3.  Confidence
+4.  Interview Preparation
+5.  Crack 
